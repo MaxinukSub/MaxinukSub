@@ -22,4 +22,6 @@ Welcome to my special GitHub repository! This is where I showcase my work, proje
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" title="Notion" alt="Notion" width="50" height="50"/>&nbsp; </p>
 
 ## 📫 How to Reach Me
-<p align="left"> <a href="mailto:maxinuksub@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" title="Email" alt="Email" width="40" height="40"/> </a>&nbsp; <a href="https://t.me/maxinuk"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/> </a> </p>
+- Telegram: [Maxim Suboch](https://t.me/maxinuk)
+- LinkedIn: [Maxim Suboch](https://www.linkedin.com/in/maxim-suboch-49080a331)
+- Email: maxinuksub@gmail.com
