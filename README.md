@@ -3,13 +3,13 @@
 Welcome to my special GitHub repository! This is where I showcase my work, projects, and contributions. 
 
 ## About Me
-- 💡 Passionate about coding, problem-solving, and continuous learning.
-- 📊 Interested in data science, machine learning, and software development.
-- 🚀 Always looking for new challenges and opportunities.
+💡 Passionate about coding, problem-solving, and continuous learning.
+📊 Interested in data science, machine learning, and software development.
+🚀 Always looking for new challenges and opportunities.
 
 ## What You'll Find Here
-- 📕 Personal projects
-- 📗 Learning experiments
+📕 Personal projects
+📗 Learning experiments
 
 ## 🛠 My Tech Stack
 📌 Programming Languages
