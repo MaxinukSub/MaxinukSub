@@ -8,8 +8,8 @@ Welcome to my special GitHub repository! This is where I showcase my work, proje
 - 🚀 Always looking for new challenges and opportunities.
 
 ## What You'll Find Here
-- 🔹 Personal projects
-- 🔹 Learning experiments
+- 📕 Personal projects
+- 📗 Learning experiments
 
 ## 🛠 My Tech Stack
 📌 Programming Languages
